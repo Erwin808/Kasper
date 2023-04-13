@@ -129,7 +129,7 @@ setInterval(() => {
   content(index);
   bulletActive(index);
   landing.setAttribute("data-slider", index);
-}, 5000);
+}, 10000);
 
 // move slider with bullets
 bullets.forEach(function (bul) {
