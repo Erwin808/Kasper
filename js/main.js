@@ -165,7 +165,7 @@ leftArrow.addEventListener("click", function () {
 
 // change the background
 function changeBack(index) {
-  // landing.style.backgroundImage = `url(../images/landing-${index}.jpg)`;
+  landing.style.backgroundImage = `url(../images/landing-${index}.jpg)`;
 }
 
 // select the active bullet
